@@ -15,4 +15,8 @@ public class Calculation {
         return a + b;
     }
 
+    public int nakiss(int a, int b) {
+        return a - b;
+    }
+
 }
